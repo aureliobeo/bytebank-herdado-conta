@@ -11,3 +11,5 @@ o arquivo precisa estar comitado para que o git possa controlar ele
 para comitar o aquivo, vc precisa usar o comando GIT ADD e o nome do arquivo, pronto, para conferir, use o git status, o que estiver verde, é o que estara comitado
 na verdade, o git add serve somente para os arquivo em repositorio, comitar serve para gravar alterações no repositorio
 
+o git push serve para vc enviar suas coisas, atualizar com a suas alterações
+o git pull serve para vc baixar a/as alterações que foram feito no projeto e o git clone serve para vc baixar o projeto todo caso não tenha ele
