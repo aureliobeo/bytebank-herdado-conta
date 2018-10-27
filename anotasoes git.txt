@@ -11,4 +11,3 @@ o arquivo precisa estar comitado para que o git possa controlar ele
 para comitar o aquivo, vc precisa usar o comando GIT ADD e o nome do arquivo, pronto, para conferir, use o git status, o que estiver verde, é o que estara comitado
 na verdade, o git add serve somente para os arquivo em repositorio, comitar serve para gravar alterações no repositorio
 
-ASDSADSDASSAD
