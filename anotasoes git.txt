@@ -1,0 +1,12 @@
+aqui é aonde eu vou colocar as minhas anotações
+echo: é para quando vc quer escrever algo dentro de um arquivo que ainda vai ser criado e quando se usar as aspas, só estar passando um unico argumento
+echo bla bla > bemvindo.txt: a seta significa que vc estar passando o que vc escreveu para um arquivo, que é o bembindo.txt que caso nao exista, foi criado agora
+detalhe, o arquivo bemvindo.txt é somente um exemplo, ele não existe
+cat (nome do arquivo): o cat é para vc ver o que tem dentro do arquivo.
+echo bla bla >> bemvindo.txt: serve para add argumentos ao arquivo, se escrever só com uma seta, ela ira sobreescrevevr o que já tinha no arquivo
+mkdir (nome da pasta): cria uma pasta.
+para transformar a pasta em um repositorio do git, tem que usar o comando GIT INIT
+git ls-files serve para vc ver o que vc pode controlar atraves do git
+o arquivo precisa estar comitado para que o git possa controlar ele
+para comitar o aquivo, vc precisa usar o comando GIT ADD e o nome do arquivo, pronto, para conferir, use o git status, o que estiver verde, é o que estara comitado
+na verdade, o git add serve somente para os arquivo em repositorio, comitar serve para gravar alterações no repositorio
